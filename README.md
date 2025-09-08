@@ -28,8 +28,3 @@ This project focuses on analyzing **luxury housing data for Bangalore**. The dat
 * **SQL** – Data querying and aggregation for dashboards
 * **Power BI** – Dashboard creation and visualization
 
----
-
-If you want, I can also create a **shorter, GitHub-ready version with badges, a quick demo GIF section, and SQL/Power BI highlights** to make it more professional and attractive for recruiters.
-
-Do you want me to do that?
